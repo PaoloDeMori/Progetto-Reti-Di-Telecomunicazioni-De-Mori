@@ -1,4 +1,4 @@
-# Progetto-Reti-Di-Telecomunicazioni-De-Mori
+# Progetto-Reti-Di-Telecomunicazione-De-Mori
 Progetto per il corso "Reti di Telecomunicazioni" anno accademico 24/25, in particolare Progetto Wireshark-Analisi del Protocollo TCP/IP 
 Il progetto consiste di 3 file:
 1)ElaboratoRetiDiTelecomunicazioni2425.pdf contenente l'analisi del protocollo TCP/IP  
